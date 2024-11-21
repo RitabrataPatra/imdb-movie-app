@@ -1,6 +1,6 @@
-# 🎥 inDbMovie App
+# 🎥 imDbMovie App
 
-**inDbMovie** is a sleek and user-friendly movie search app that allows you to explore movie details, including release date, rating, plot, and more! Powered by the [OMDb API](https://www.omdbapi.com/), inDbMovie is your gateway to discovering and learning about your favorite films in seconds.
+**imDbMovie** is a sleek and user-friendly movie search app that allows you to explore movie details, including release date, rating, plot, and more! Powered by the [OMDb API](https://www.omdbapi.com/), imDbMovie is your gateway to discovering and learning about your favorite films in seconds.
 
 ---
 
@@ -37,5 +37,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/inDbMovie.git
-   cd inDbMovie
+   git clone https://github.com/your-username/imDbMovie.git
+   cd imDbMovie
