@@ -19,7 +19,7 @@
 
 - **Frontend**: HTML, CSS, ReactJS
 - **API**: [OMDb API](https://www.omdbapi.com/)
-- **Hosting**: [GitHub Pages](https://pages.github.com/) (optional)
+- **Hosting**: [Vercel](https://imdb-movie-app-blue.vercel.app/) (optional)
 
 ---
 
