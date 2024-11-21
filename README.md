@@ -26,10 +26,10 @@
 ## 📸 Screenshots
 
 ### Movie Search Page
-![Movie Search Screenshot](./screenshots/movie-search.png)
+![Movie Search Screenshot](image.png)
 
 ### Movie Details Page
-![Movie Details Screenshot](./screenshots/movie-details.png)
+![Movie Details Screenshot](image-1.png)
 
 ---
 
